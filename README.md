@@ -7,7 +7,6 @@ A Script For Pinging Your Minecraft Server.
 os, time, colorama, mcstatus
 # Run The Main.Py File
 py main.py
-docker-compose up -d --build
 ```
 
 # Contanct Info 📞
